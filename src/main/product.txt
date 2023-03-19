@@ -1,0 +1,5 @@
+1 - Iphone 12 - Apple - Mobile - 1000.0
+2 - Iphone 13 - Apple - MAC - 1000.0
+3 - Iphone 14 - Apple - Mobile - 1000.0
+4 - Iphone 15 - Apple - Mobile - 1000.0
+5 - Iphone 17 - Apple - MAC - 1000.0
